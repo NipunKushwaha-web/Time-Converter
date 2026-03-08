@@ -78,7 +78,7 @@ No data is sent to any server.
 git clone <YOUR_REPO_URL>
 
 # Install dependencies
-cd timezone-converter
+cd Timezone-Converter
 npm install
 
 # Run locally
